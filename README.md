@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @talisonfc
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning embedded system
+- 💞️ I’m looking to collaborate on open sources projects
