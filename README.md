@@ -2,7 +2,7 @@
 
 My main stack today is Flutter for cross platform (+4 years), Java for backend (2 years). I have worked in the legal, pharmaceutical, fleet monitoring and banking sectors.
 
-Here you will fine some experiments that I used to work:
+Here you will find some experiments that I used to work on my skills:
 - [fotonica_ui_components](https://github.com/talisonfc/fotonica_ui_components): widget storebook with code preview for flutter design system.
 - [layout_builder](https://github.com/talisonfc/layout_builder): drag and drop tools to define UI dynamically.
 - [path_builder](https://github.com/talisonfc/pathbuilder): poc for a app that create curves using CustomPainter.
